@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7354cacb5e82f8438f202025be22a2a, type: 3}
+  m_Name: money
+  m_EditorClassIdentifier: 
+  itemName: 8
+  description: Currency for buy anything
+  hashcode: money
+  image: {fileID: 21300000, guid: aca2b7bd12de754458ebda928b20bd8b, type: 3}

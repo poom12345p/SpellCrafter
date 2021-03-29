@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7354cacb5e82f8438f202025be22a2a, type: 3}
+  m_Name: bigMana
+  m_EditorClassIdentifier: 
+  itemName: 6
+  description: Item for increase max mana
+  hashcode: manaUp
+  image: {fileID: 21300000, guid: 95c978c02ea28b844968cb641ae1f240, type: 3}

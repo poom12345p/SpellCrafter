@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: f8310ed71e9c5a344ba448a912e7524b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9142972985406489187
+    second: Fly_All (1)_0
+  - first:
+      213: 6785282618530453144
+    second: Fly_All (1)_1
+  - first:
+      213: -3082505674228817334
+    second: Fly_All (1)_2
+  - first:
+      213: 1404882244145987819
+    second: Fly_All (1)_3
+  - first:
+      213: 2174599706782935827
+    second: Fly_All (1)_4
+  - first:
+      213: -3635864267189589727
+    second: Fly_All (1)_5
+  - first:
+      213: 2354913492502713416
+    second: Fly_All (1)_6
+  - first:
+      213: 573690488691757242
+    second: Fly_All (1)_7
+  - first:
+      213: -2387934794570217184
+    second: Fly_All (1)_8
+  - first:
+      213: -9126065828614562090
+    second: Fly_All (1)_9
+  - first:
+      213: -4537495746004102106
+    second: Fly_All (1)_10
+  - first:
+      213: 6470864574040277053
+    second: Fly_All (1)_11
+  - first:
+      213: -4352540069617748975
+    second: Fly_All (1)_12
+  - first:
+      213: -7735111084428454938
+    second: Fly_All (1)_13
+  - first:
+      213: -1903243905590651161
+    second: Fly_All (1)_14
+  - first:
+      213: 6524357629507633599
+    second: Fly_All (1)_15
+  - first:
+      213: -4518946127226793114
+    second: Fly_All (1)_16
+  - first:
+      213: -7647811436754225612
+    second: Fly_All (1)_17
+  - first:
+      213: -5875049744611640912
+    second: Fly_All (1)_18
+  - first:
+      213: -1230875187940474388
+    second: Fly_All (1)_19
+  - first:
+      213: 4425704012289273469
+    second: Fly_All (1)_20
+  - first:
+      213: -6278562872165730085
+    second: Fly_All (1)_21
+  - first:
+      213: -3365152599717749621
+    second: Fly_All (1)_22
+  - first:
+      213: 7452544536600500746
+    second: Fly_All (1)_23
+  - first:
+      213: 7408059860841911364
+    second: Fly_All (1)_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly_All (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362852a1d7d52ee70800000000000000
+      internalID: 9142972985406489187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d322779a2a2e50800000000000000
+      internalID: 6785282618530453144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42277dcb6db835d0800000000000000
+      internalID: -3082505674228817334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0439925f42f7310800000000000000
+      internalID: 1404882244145987819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b277b69eabd2e10800000000000000
+      internalID: 2174599706782935827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e0ae66b0da8dc0800000000000000
+      internalID: -3635864267189589727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844166538555ea020800000000000000
+      internalID: 2354913492502713416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01e7db57826f700800000000000000
+      internalID: 573690488691757242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_All (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 780
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c8d6c4f95cded0800000000000000
+      internalID: -2387934794570217184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

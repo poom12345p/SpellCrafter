@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: d2beb2f12bd54ba4cbf38a544f31d406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4976050877294737704
+    second: Idle_0
+  - first:
+      213: 2189737256242973058
+    second: Idle_1
+  - first:
+      213: -9194146367874931721
+    second: Idle_2
+  - first:
+      213: 1448610806232452898
+    second: Idle_3
+  - first:
+      213: -5411023379044541696
+    second: Idle_4
+  - first:
+      213: 8157835894999163521
+    second: Idle_5
+  - first:
+      213: -5530492916800717893
+    second: Idle_6
+  - first:
+      213: 5366834558029229236
+    second: Idle_7
+  - first:
+      213: -1298538200021911180
+    second: ALL_8
+  - first:
+      213: 7643193446587910094
+    second: Run_0
+  - first:
+      213: -3889617059839500950
+    second: Run_02
+  - first:
+      213: -3446846620937774472
+    second: Run_03
+  - first:
+      213: 6224818951448076008
+    second: Run_04
+  - first:
+      213: -5314131283084282203
+    second: Run_05
+  - first:
+      213: -9065183894018217110
+    second: Run_06
+  - first:
+      213: 46576829166050331
+    second: Run_07
+  - first:
+      213: 6812586513601022283
+    second: Run_08
+  - first:
+      213: 740582291771403932
+    second: ALL_17
+  - first:
+      213: 2084666995570078178
+    second: JumpUp_0
+  - first:
+      213: 7667448999010911796
+    second: JumpUp_01
+  - first:
+      213: 5868419131389419263
+    second: JumpUp_02
+  - first:
+      213: 2585375526543081473
+    second: JumpUp_03
+  - first:
+      213: -579389828631823076
+    second: ALL_22
+  - first:
+      213: 4955301670408440099
+    second: ALL_23
+  - first:
+      213: -3793239997474542275
+    second: JumpDown_0
+  - first:
+      213: 5994597149312657923
+    second: JumpDown_01
+  - first:
+      213: -9113191046974552166
+    second: JumpDown_02
+  - first:
+      213: 482041494035282090
+    second: JumpDown_03
+  - first:
+      213: -8864272574221764801
+    second: ALL_28
+  - first:
+      213: -7166808884784282655
+    second: Damaged_0
+  - first:
+      213: -493320903665934237
+    second: Damaged_01
+  - first:
+      213: -4141285702735721188
+    second: Damaged_02
+  - first:
+      213: 7085749774871183881
+    second: Damaged_03
+  - first:
+      213: -8105833556524249746
+    second: Damaged_04
+  - first:
+      213: -5168540262897574763
+    second: Damaged_05
+  - first:
+      213: -4587921186625518525
+    second: Damaged_06
+  - first:
+      213: -4707004369453198910
+    second: Damaged_07
+  - first:
+      213: -1995184451567083384
+    second: ALL_37
+  - first:
+      213: 5073671867918083870
+    second: ALL_38
+  - first:
+      213: 6845453971365119057
+    second: ALL_39
+  - first:
+      213: 2905265285512755473
+    second: ALL_40
+  - first:
+      213: 2262546784198084733
+    second: ALL_41
+  - first:
+      213: -3893216594486243457
+    second: ALL_42
+  - first:
+      213: 4437339353203178005
+    second: ALL_43
+  - first:
+      213: 3232597646661761332
+    second: ALL_44
+  - first:
+      213: 1860693819071321064
+    second: ALL_45
+  - first:
+      213: 3093471729263062522
+    second: ALL_46
+  - first:
+      213: 8016662591859238929
+    second: ALL_47
+  - first:
+      213: 3838905473810163064
+    second: ALL_48
+  - first:
+      213: 5492372135966877312
+    second: ALL_49
+  - first:
+      213: -3882426061107266288
+    second: ALL_50
+  - first:
+      213: -3840878032192987277
+    second: ALL_51
+  - first:
+      213: 2651537111062060863
+    second: ALL_52
+  - first:
+      213: 4174602010137036738
+    second: ALL_53
+  - first:
+      213: -3242311601693504888
+    second: ALL_54
+  - first:
+      213: -6989904095209439788
+    second: ALL_55
+  - first:
+      213: -9086240768708937243
+    second: ALL_56
+  - first:
+      213: 4983993907546471988
+    second: ALL_57
+  - first:
+      213: 4033475083355796239
+    second: ALL_58
+  - first:
+      213: -4393829864660425013
+    second: ALL_59
+  - first:
+      213: 4973349343974556318
+    second: ALL_60
+  - first:
+      213: 8024050182899788047
+    second: ALL_61
+  - first:
+      213: 3092989533633116513
+    second: ALL_62
+  - first:
+      213: -7940319550946473149
+    second: ALL_63
+  - first:
+      213: -4027503582801438733
+    second: ALL_64
+  - first:
+      213: -7750758446668910903
+    second: ALL_65
+  - first:
+      213: -679812551396194830
+    second: ALL_66
+  - first:
+      213: -7222071600303664344
+    second: ALL_67
+  - first:
+      213: -1441141761153101518
+    second: ALL_68
+  - first:
+      213: -3708660321842550212
+    second: ALL_69
+  - first:
+      213: 7649577935525872033
+    second: ALL_70
+  - first:
+      213: 1610489962595091777
+    second: ALL_71
+  - first:
+      213: -6577394680154949743
+    second: ALL_72
+  - first:
+      213: -1737679742110017048
+    second: ALL_73
+  - first:
+      213: -4233032346062615386
+    second: ALL_74
+  - first:
+      213: -4199116594322515284
+    second: ALL_75
+  - first:
+      213: 4234473636133603218
+    second: ALL_76
+  - first:
+      213: 1674200877469748754
+    second: ALL_77
+  - first:
+      213: -2300802231568972359
+    second: ALL_78
+  - first:
+      213: -8582221212023796179
+    second: ALL_79
+  - first:
+      213: 4016038569740040181
+    second: ALL_80
+  - first:
+      213: -6998881817251409683
+    second: ALL_81
+  - first:
+      213: 1159117890948197060
+    second: ALL_82
+  - first:
+      213: 1037882718565660574
+    second: ALL_83
+  - first:
+      213: -5987847758881630336
+    second: ALL_84
+  - first:
+      213: 5964782830706102023
+    second: ALL_85
+  - first:
+      213: 2677786249554860874
+    second: ALL_86
+  - first:
+      213: 7570082795630598232
+    second: ALL_87
+  - first:
+      213: 8571513295391799411
+    second: ALL_88
+  - first:
+      213: -5928784639945533234
+    second: ALL_89
+  - first:
+      213: -1021756139308755277
+    second: ALL_90
+  - first:
+      213: -5554797962990568335
+    second: ALL_91
+  - first:
+      213: 7011094663222280705
+    second: ALL_92
+  - first:
+      213: -7501040159746022810
+    second: ALL_93
+  - first:
+      213: 1882806253545609838
+    second: ALL_94
+  - first:
+      213: 526592509759344760
+    second: ALL_95
+  - first:
+      213: 5224241134880693495
+    second: ALL_96
+  - first:
+      213: -5800552143903253052
+    second: ALL_97
+  - first:
+      213: 3119957521187468759
+    second: ALL_98
+  - first:
+      213: 8092065688530863322
+    second: ALL_99
+  - first:
+      213: -6673166421999124803
+    second: ALL_100
+  - first:
+      213: 7305461250901187471
+    second: ALL_101
+  - first:
+      213: 221261699018529521
+    second: ALL_102
+  - first:
+      213: -3432652988541516457
+    second: ALL_103
+  - first:
+      213: 8951208874296922155
+    second: ALL_104
+  - first:
+      213: 7750562270035237959
+    second: ALL_105
+  - first:
+      213: 5933174730819704477
+    second: ALL_106
+  - first:
+      213: 5879919714147478339
+    second: ALL_107
+  - first:
+      213: -3328531037606658530
+    second: ALL_108
+  - first:
+      213: 4473965521793831953
+    second: ALL_109
+  - first:
+      213: 4754770395083481474
+    second: ALL_110
+  - first:
+      213: -4682129818394238544
+    second: ALL_111
+  - first:
+      213: -3633219646679033218
+    second: ALL_112
+  - first:
+      213: -524261658430707079
+    second: ALL_113
+  - first:
+      213: 5372529025869715229
+    second: ALL_114
+  - first:
+      213: 6448261861591798584
+    second: ALL_115
+  - first:
+      213: -5771208244437715300
+    second: ALL_116
+  - first:
+      213: -2790100009564775507
+    second: ALL_117
+  - first:
+      213: 6672804281169193738
+    second: ALL_118
+  - first:
+      213: 1905890870302650516
+    second: ALL_119
+  - first:
+      213: -3939432159232283800
+    second: ALL_120
+  - first:
+      213: -1729857286782767424
+    second: ALL_121
+  - first:
+      213: -4045541258607846483
+    second: ALL_122
+  - first:
+      213: 9048015972255502501
+    second: ALL_123
+  - first:
+      213: -4368081227041458528
+    second: ALL_124
+  - first:
+      213: -8603081479320642135
+    second: ALL_125
+  - first:
+      213: 7059964441804585787
+    second: ALL_126
+  - first:
+      213: -1522159477858895766
+    second: ALL_127
+  - first:
+      213: -8851598168300232888
+    second: ALL_128
+  - first:
+      213: -3060893927490483807
+    second: ALL_129
+  - first:
+      213: -9141516085687712510
+    second: ALL_130
+  - first:
+      213: 6025948613951618804
+    second: ALL_131
+  - first:
+      213: 8363426979355437421
+    second: ALL_132
+  - first:
+      213: -1416242866879642809
+    second: ALL_133
+  - first:
+      213: -7671292624379613766
+    second: ALL_134
+  - first:
+      213: -7179853895493857136
+    second: ALL_135
+  - first:
+      213: 4588743067795726670
+    second: ALL_136
+  - first:
+      213: -741755926172052906
+    second: ALL_137
+  - first:
+      213: -2090631242528817964
+    second: ALL_138
+  - first:
+      213: 5058109833590444759
+    second: ALL_139
+  - first:
+      213: -4997553329481793509
+    second: ALL_140
+  - first:
+      213: 7968038245097289644
+    second: ALL_141
+  - first:
+      213: 7343761508323680469
+    second: ALL_142
+  - first:
+      213: 5779963677849427759
+    second: ALL_143
+  - first:
+      213: -8140956254005807572
+    second: ALL_144
+  - first:
+      213: -14501608838413268
+    second: ALL_145
+  - first:
+      213: 4890431779309298517
+    second: ALL_146
+  - first:
+      213: 7982642325335677129
+    second: ALL_147
+  - first:
+      213: 2038503233984932372
+    second: ALL_148
+  - first:
+      213: 8248198347662518321
+    second: ALL_149
+  - first:
+      213: -8356078986779184185
+    second: ALL_150
+  - first:
+      213: -5228781776453595787
+    second: ALL_151
+  - first:
+      213: 1158180142466186115
+    second: ALL_152
+  - first:
+      213: -1628872495019008423
+    second: ALL_153
+  - first:
+      213: 6024038713021566663
+    second: ALL_154
+  - first:
+      213: 7690592421955989382
+    second: ALL_155
+  - first:
+      213: -7649674395903114661
+    second: ALL_156
+  - first:
+      213: -8415042984416757749
+    second: ALL_157
+  - first:
+      213: 3484804132856451807
+    second: ALL_158
+  - first:
+      213: 1808930080476124216
+    second: ALL_159
+  - first:
+      213: 5197069821907032006
+    second: ALL_160
+  - first:
+      213: -2985821386420023855
+    second: ALL_161
+  - first:
+      213: 7008084344255785575
+    second: ALL_162
+  - first:
+      213: -7364754102149904573
+    second: ALL_163
+  - first:
+      213: -3786506801386803997
+    second: ALL_164
+  - first:
+      213: -2075868541199090926
+    second: ALL_165
+  - first:
+      213: -3283028983224883394
+    second: ALL_166
+  - first:
+      213: 8499757974530677277
+    second: ALL_167
+  - first:
+      213: 8116609774737221413
+    second: ALL_168
+  - first:
+      213: 1926975976281818800
+    second: ALL_169
+  - first:
+      213: 8151310858628527422
+    second: ALL_170
+  - first:
+      213: 8421212136622416674
+    second: ALL_171
+  - first:
+      213: -2282709014757958908
+    second: ALL_172
+  - first:
+      213: 1772850075439354432
+    second: ALL_173
+  - first:
+      213: -3618597936940582342
+    second: ALL_174
+  - first:
+      213: -8104312826946946991
+    second: ALL_175
+  - first:
+      213: 7299364521186941268
+    second: ALL_176
+  - first:
+      213: -4654501449631820245
+    second: ALL_177
+  - first:
+      213: 8709185509073856898
+    second: ALL_178
+  - first:
+      213: 1280292157019690120
+    second: ALL_179
+  - first:
+      213: -4487068381770891405
+    second: ALL_180
+  - first:
+      213: 928356596184579448
+    second: ALL_181
+  - first:
+      213: -351726940632398135
+    second: ALL_182
+  - first:
+      213: 30052901221413578
+    second: ALL_183
+  - first:
+      213: 5657335016577988816
+    second: ALL_184
+  - first:
+      213: 5608912463301208545
+    second: ALL_185
+  - first:
+      213: -289320801596598576
+    second: ALL_186
+  - first:
+      213: 4759388382022102426
+    second: ALL_187
+  - first:
+      213: 8267026960298844676
+    second: ALL_188
+  - first:
+      213: -8444814614884318886
+    second: ALL_189
+  - first:
+      213: -7308831464508123684
+    second: ALL_190
+  - first:
+      213: 5369378476485642319
+    second: ALL_191
+  - first:
+      213: -5634759411672396617
+    second: ALL_192
+  - first:
+      213: 471261598260252704
+    second: ALL_193
+  - first:
+      213: 801780047377378488
+    second: ALL_194
+  - first:
+      213: 4338077282663681433
+    second: ALL_195
+  - first:
+      213: -1600011688854454916
+    second: ALL_196
+  - first:
+      213: 6918643582253888293
+    second: ALL_197
+  - first:
+      213: -8544584232996382578
+    second: ALL_198
+  - first:
+      213: 8669988979519890326
+    second: ALL_199
+  - first:
+      213: -785735842284162936
+    second: ALL_200
+  - first:
+      213: 5186910164531996175
+    second: ALL_201
+  - first:
+      213: 8589414003369264176
+    second: ALL_202
+  - first:
+      213: -8070113475876101398
+    second: ALL_203
+  - first:
+      213: -3016485140331044297
+    second: ALL_204
+  - first:
+      213: 3622293899608871697
+    second: ALL_205
+  - first:
+      213: 1251866158843281305
+    second: ALL_206
+  - first:
+      213: 6467670132587736855
+    second: ALL_207
+  - first:
+      213: 7754441214775644140
+    second: ALL_208
+  - first:
+      213: 6284570914567337568
+    second: ALL_209
+  - first:
+      213: 91637528870171275
+    second: ALL_210
+  - first:
+      213: 43498726905537073
+    second: ALL_211
+  - first:
+      213: -850337567905251910
+    second: ALL_212
+  - first:
+      213: -1297585310903668576
+    second: ALL_213
+  - first:
+      213: -1894287723134679141
+    second: ALL_214
+  - first:
+      213: 5562265200104581195
+    second: ALL_215
+  - first:
+      213: 7067961493772874126
+    second: ALL_216
+  - first:
+      213: 5321179167057696319
+    second: ALL_217
+  - first:
+      213: 1834470129175072483
+    second: ALL_218
+  - first:
+      213: -4357330773995230708
+    second: ALL_219
+  - first:
+      213: -2999301282791579695
+    second: ALL_220
+  - first:
+      213: 7762996211390738315
+    second: ALL_221
+  - first:
+      213: 5926238683793534576
+    second: ALL_222
+  - first:
+      213: 3144282518455205290
+    second: ALL_223
+  - first:
+      213: 8995338263335644899
+    second: ALL_224
+  - first:
+      213: -7033904135709293534
+    second: ALL_225
+  - first:
+      213: 3184417534408025184
+    second: ALL_226
+  - first:
+      213: 6851442222153366939
+    second: ALL_227
+  - first:
+      213: 7302240093948760905
+    second: ALL_228
+  - first:
+      213: 4239051915729275583
+    second: ALL_229
+  - first:
+      213: -6659853576891233785
+    second: ALL_230
+  - first:
+      213: -4919414766252085780
+    second: ALL_231
+  - first:
+      213: -9059944011575008994
+    second: ALL_232
+  - first:
+      213: -393289826520441812
+    second: ALL_233
+  - first:
+      213: -7652407412594554182
+    second: ALL_234
+  - first:
+      213: -1519813784307073051
+    second: ALL_235
+  - first:
+      213: 5978043121855222835
+    second: ALL_236
+  - first:
+      213: 7867229358741779317
+    second: ALL_237
+  - first:
+      213: -1773214883326846772
+    second: ALL_238
+  - first:
+      213: -523638180119049307
+    second: ALL_239
+  - first:
+      213: -213488254494370348
+    second: ALL_240
+  - first:
+      213: 8991468070260089921
+    second: ALL_241
+  - first:
+      213: 566415526544038930
+    second: ALL_242
+  - first:
+      213: 2346405976326297863
+    second: ALL_243
+  - first:
+      213: 3900747361641266039
+    second: ALL_244
+  - first:
+      213: 6712769627796036011
+    second: ALL_245
+  - first:
+      213: 1641692003185861372
+    second: ALL_246
+  - first:
+      213: 3634411151178134109
+    second: ALL_247
+  - first:
+      213: -2365317460687496853
+    second: ALL_248
+  - first:
+      213: -9138843459005840564
+    second: ALL_249
+  - first:
+      213: 1131234412498241191
+    second: ALL_250
+  - first:
+      213: 1377500299912425738
+    second: ALL_251
+  - first:
+      213: -3201265220358809748
+    second: ALL_252
+  - first:
+      213: 2309921702579483877
+    second: ALL_253
+  - first:
+      213: -7100247077736823766
+    second: ALL_254
+  - first:
+      213: 1759314349339622706
+    second: ALL_255
+  - first:
+      213: 8960706012585402465
+    second: ALL_256
+  - first:
+      213: 1925449090585346657
+    second: ALL_257
+  - first:
+      213: -8882984657822218950
+    second: ALL_258
+  - first:
+      213: -4198106003630279048
+    second: ALL_259
+  - first:
+      213: 5165647173221952135
+    second: ALL_260
+  - first:
+      213: -6494437499470603457
+    second: ALL_261
+  - first:
+      213: 7294865309598451367
+    second: ALL_262
+  - first:
+      213: 4201808798335447600
+    second: ALL_263
+  - first:
+      213: -8410959076620174649
+    second: ALL_264
+  - first:
+      213: 5695529717454657998
+    second: ALL_265
+  - first:
+      213: 1815247813984778001
+    second: ALL_266
+  - first:
+      213: -4180981130586269584
+    second: ALL_267
+  - first:
+      213: -7656055408196869778
+    second: ALL_268
+  - first:
+      213: -7056917374123926229
+    second: ALL_269
+  - first:
+      213: 6647050491715936170
+    second: ALL_270
+  - first:
+      213: 8327896742311523518
+    second: ALL_271
+  - first:
+      213: 6994069895827144570
+    second: ALL_272
+  - first:
+      213: -3990558747407854757
+    second: ALL_273
+  - first:
+      213: -2650359839158307445
+    second: ALL_274
+  - first:
+      213: -1733143956046148724
+    second: ALL_275
+  - first:
+      213: 1582704491723936526
+    second: ALL_276
+  - first:
+      213: 1234738154036308330
+    second: ALL_277
+  - first:
+      213: -7116270020286674199
+    second: ALL_278
+  - first:
+      213: 3748425833345685231
+    second: ALL_279
+  - first:
+      213: 8125576683897235001
+    second: ALL_280
+  - first:
+      213: 2769461768995061746
+    second: ALL_281
+  - first:
+      213: 7885888682557205009
+    second: ALL_282
+  - first:
+      213: -4146193788376368645
+    second: ALL_283
+  - first:
+      213: 2727931200020923051
+    second: ALL_284
+  - first:
+      213: 630698571691016460
+    second: ALL_285
+  - first:
+      213: -4354008871851794216
+    second: ALL_286
+  - first:
+      213: 4755671504997722862
+    second: ALL_287
+  - first:
+      213: 3407076063185811194
+    second: ALL_288
+  - first:
+      213: -4750665181894651646
+    second: ALL_289
+  - first:
+      213: 7731624155090585028
+    second: ALL_290
+  - first:
+      213: 7667488412268931903
+    second: ALL_291
+  - first:
+      213: -6478381302336440361
+    second: ALL_292
+  - first:
+      213: 8318266895286406341
+    second: ALL_293
+  - first:
+      213: 5873086351262028964
+    second: ALL_294
+  - first:
+      213: -4778365377116804840
+    second: ALL_295
+  - first:
+      213: -3663307469311958435
+    second: ALL_296
+  - first:
+      213: -5004642930670150869
+    second: ALL_297
+  - first:
+      213: -919444515671709616
+    second: ALL_298
+  - first:
+      213: -2123481006299713253
+    second: ALL_299
+  - first:
+      213: -2858861538161708460
+    second: ALL_300
+  - first:
+      213: -2611251326727775894
+    second: ALL_301
+  - first:
+      213: 8992743373372560330
+    second: ALL_302
+  - first:
+      213: -7718447259492565661
+    second: ALL_303
+  - first:
+      213: 3248471312576597503
+    second: ALL_304
+  - first:
+      213: -7664457885065955674
+    second: ALL_305
+  - first:
+      213: -3070544996846035257
+    second: ALL_306
+  - first:
+      213: 9066938073201494544
+    second: ALL_307
+  - first:
+      213: -721470150184168117
+    second: ALL_308
+  - first:
+      213: 4542262722557359192
+    second: ALL_309
+  - first:
+      213: 6290580549117070571
+    second: ALL_310
+  - first:
+      213: 4625598102280977428
+    second: ALL_311
+  - first:
+      213: -5396552554537104942
+    second: ALL_312
+  - first:
+      213: -2618447983033656855
+    second: ALL_313
+  - first:
+      213: 1511548983962102443
+    second: ALL_314
+  - first:
+      213: -6863611541405310482
+    second: ALL_315
+  - first:
+      213: -2174988182508861510
+    second: ALL_316
+  - first:
+      213: -3503036638342722017
+    second: ALL_317
+  - first:
+      213: -6039817594222733059
+    second: ALL_318
+  - first:
+      213: 4339462245448134175
+    second: ALL_319
+  - first:
+      213: -8618464582497968553
+    second: ALL_320
+  - first:
+      213: -9187951900158038990
+    second: ALL_321
+  - first:
+      213: 3564841489493473392
+    second: ALL_322
+  - first:
+      213: -2426631970947296533
+    second: ALL_323
+  - first:
+      213: 5302950077881848719
+    second: ALL_324
+  - first:
+      213: 4970970308843318208
+    second: ALL_325
+  - first:
+      213: -3980159453127121557
+    second: ALL_326
+  - first:
+      213: 3763565910298053857
+    second: ALL_327
+  - first:
+      213: 3950863194677019862
+    second: ALL_328
+  - first:
+      213: 2858898778955574015
+    second: ALL_329
+  - first:
+      213: -6527320885787185260
+    second: ALL_330
+  - first:
+      213: 2729843296929661513
+    second: ALL_331
+  - first:
+      213: 136957351695723231
+    second: ALL_332
+  - first:
+      213: 7799178407322083619
+    second: ALL_333
+  - first:
+      213: -6215798393838684889
+    second: ALL_334
+  - first:
+      213: -1014234661642476764
+    second: ALL_335
+  - first:
+      213: 7104915855957260512
+    second: ALL_336
+  - first:
+      213: -2935789503891807898
+    second: ALL_337
+  - first:
+      213: -2854794763289792645
+    second: ALL_338
+  - first:
+      213: -5313002301788859079
+    second: ALL_339
+  - first:
+      213: -8035736106473678246
+    second: ALL_340
+  - first:
+      213: -723650151540079073
+    second: ALL_341
+  - first:
+      213: -2374490682837455954
+    second: ALL_342
+  - first:
+      213: 2336218343806152872
+    second: ALL_343
+  - first:
+      213: -2392887524893579554
+    second: ALL_344
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: 0, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d68392671481fab0800000000000000
+      internalID: -4976050877294737704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890dcdce62836e10800000000000000
+      internalID: 2189737256242973058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3edd15794d76080800000000000000
+      internalID: -9194146367874931721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f074b6adf7a1410800000000000000
+      internalID: 1448610806232452898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b57b4d7ee28e4b0800000000000000
+      internalID: -5411023379044541696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822b514684763170800000000000000
+      internalID: 8157835894999163521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb77457efdbf33b0800000000000000
+      internalID: -5530492916800717893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6f978893da7a40800000000000000
+      internalID: 5366834558029229236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4793b64136aaafde0800000000000000
+      internalID: -1298538200021911180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7477db1f3121a60800000000000000
+      internalID: 7643193446587910094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d97f364ed450ac0800000000000000
+      internalID: -3889617059839500950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9fbba2475a20d0800000000000000
+      internalID: -3446846620937774472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_04
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee9e281bdff26650800000000000000
+      internalID: 6224818951448076008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_05
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a678f5e0c96046b0800000000000000
+      internalID: -5314131283084282203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_06
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba37d174ff13280800000000000000
+      internalID: -9065183894018217110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_07
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd43d116975a000800000000000000
+      internalID: 46576829166050331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_08
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494ec8e65b2b8e50800000000000000
+      internalID: 6812586513601022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 680
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eaafbaba3174a00800000000000000
+      internalID: 740582291771403932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17fe166993eec10800000000000000
+      internalID: 2084666995570078178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUp_01
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436487f9d30486a60800000000000000
+      internalID: 7667448999010911796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUp_02
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe92979b10d07150800000000000000
+      internalID: 5868419131389419263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUp_03
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c69ee75911e320800000000000000
+      internalID: 2585375526543081473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dfce5450895f7f0800000000000000
+      internalID: -579389828631823076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329489b6d94c4c440800000000000000
+      internalID: 4955301670408440099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3de9bad154bb5bc0800000000000000
+      internalID: -3793239997474542275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDown_01
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa958b856113350800000000000000
+      internalID: 5994597149312657923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDown_02
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97cfcac601778180800000000000000
+      internalID: -9113191046974552166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDown_03
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b8f25f2e80b600800000000000000
+      internalID: 482041494035282090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 280
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3736450f07cbf480800000000000000
+      internalID: -8864272574221764801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c1596a416a8c90800000000000000
+      internalID: -7166808884784282655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_01
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a7b8704f5729f0800000000000000
+      internalID: -493320903665934237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_02
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d880748923786c0800000000000000
+      internalID: -4141285702735721188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_03
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902408ad0e3a55260800000000000000
+      internalID: 7085749774871183881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_04
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4eeea35b428f80800000000000000
+      internalID: -8105833556524249746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_05
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9fa6d308a548b0800000000000000
+      internalID: -5168540262897574763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_06
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34482b51dfd6450c0800000000000000
+      internalID: -4587921186625518525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_07
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d78af67c5daeb0800000000000000
+      internalID: -4707004369453198910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 80
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88026feef4eaf44e0800000000000000
+      internalID: -1995184451567083384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

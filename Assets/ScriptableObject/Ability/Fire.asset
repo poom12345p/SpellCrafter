@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed8adaa39dc249499f748097d873266, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  elementName: Pyro
+  elementDescription: Massive and strong element
+  elementIcon: {fileID: 9182157284707403512, guid: 307f00011c977a149abe215deeb5e7d9,
+    type: 3}
+  elementClip: {fileID: 21300000, guid: 7c6c4fc7225d52043aef2dc7bfc20c23, type: 3}
+  attackName: Fireball
+  attackDescription: Spawn hot ball towards
+  attackIcon: {fileID: 9182157284707403512, guid: 307f00011c977a149abe215deeb5e7d9,
+    type: 3}
+  attackClip: {fileID: 21300000, guid: 7c6c4fc7225d52043aef2dc7bfc20c23, type: 3}
+  spellName: Flamethrower
+  spellDescription: AOE line damage
+  spellIcon: {fileID: 9182157284707403512, guid: 307f00011c977a149abe215deeb5e7d9,
+    type: 3}
+  spellClip: {fileID: 21300000, guid: 7c6c4fc7225d52043aef2dc7bfc20c23, type: 3}
+  midairName: ???
+  midairDescription: ???
+  midairIcon: {fileID: 9182157284707403512, guid: 307f00011c977a149abe215deeb5e7d9,
+    type: 3}
+  midairClip: {fileID: 21300000, guid: 7c6c4fc7225d52043aef2dc7bfc20c23, type: 3}
+  passiveName: Ignite
+  passiveDescription: Burn baby burn
+  passiveIcon: {fileID: 9182157284707403512, guid: 307f00011c977a149abe215deeb5e7d9,
+    type: 3}
+  passiveClip: {fileID: 21300000, guid: 7c6c4fc7225d52043aef2dc7bfc20c23, type: 3}

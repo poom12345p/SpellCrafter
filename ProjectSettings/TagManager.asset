@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Skill
+  - PlayerDamage
+  - EnemyDamage
+  - Enemy
+  - Spike
+  - StableGround
+  - Solid
+  - Wall
+  - UI
+  - MapManager
+  - GameManager
+  - Static
+  - SkillManager
+  - SpellUI
+  - EventSystem
+  - ReSpawnPoint
+  - MiniMapCam
+  - SettingUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - UnitFeet
+  - Front
+  - Spike
+  - Minimap
+  - Wall
+  - PostProcessing
+  - UnitBody
+  - Skill
+  - 
+  - 
+  - Camera
+  - CameraBounds
+  - VisibleTriggerOnly
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 478436809
+    locked: 0
+  - name: wall
+    uniqueID: 2877466811
+    locked: 0
+  - name: Asset
+    uniqueID: 1570096143
+    locked: 0
+  - name: Platfrom
+    uniqueID: 714008895
+    locked: 0
+  - name: Particle
+    uniqueID: 3975739505
+    locked: 0
+  - name: Enemy
+    uniqueID: 1794608503
+    locked: 0
+  - name: Player
+    uniqueID: 2743052587
+    locked: 0
+  - name: FontParticle
+    uniqueID: 2653487671
+    locked: 0
+  - name: Skill
+    uniqueID: 3681017317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 1846790189
+    locked: 0
+  - name: UI
+    uniqueID: 1270381695
+    locked: 0

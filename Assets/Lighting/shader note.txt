@@ -1,0 +1,5 @@
+Shader Note
+ถ้าต้องการปรับแต่ง shader
+1.ทำ Material ใหม่
+2.ใส shader (SH_)
+3.ปรับค่าที่ Material เช่น range,speed
