@@ -2,18 +2,27 @@
 ## Description
 
 ## Game Play
-- [Trailer Video](https://youtu.be/QNtEOHdkUZM) 
-- the goal of this game is clear the stage as much as possible.  players can clear the stage by fing the boss romm and kill the boss of the stage and going to the next stage.  Stages are randomly generating ,so the paths in stage will be diffrence  every the you go to next stage. killing monster in stage will dorp coin for upgrade charecter skill and item giving specail ability to character. if one of players died others player can stand around the body to resurrecti the dead one. However,if all of players are died game will be over and screen will show you the summary score. Only the score will be save on score borad. Skill, item, and coin will not save and reset evertime you after game over. 
+- [Trailer Video](https://www.youtube.com/watch?v=n2aRTP6vv8A&ab_channel=ChayootpongPromlee) 
+- Spellcrafter is a Metroid Vania game. Souls and solve single-player puzzles. (Single-
+player) where players will play the role of a mage who can control various elemental powers.
+The goal of this game is that the player has to find Last Boss and defeat them. Along the way,
+players will have to find as many items as possible to unlock their own abilities. The deeper the
+player searches, the greater the challenge from environment, and enemies. Players will have to
+use their own control abilities, change their elements in battle, and solve puzzles based on
+their abilities. But even so, various obstacles Will adjust to prevent the players from reaching
+their destination Players need to find the weaknesses of those obstacles in order to strengthen
+themselves.
 ## Download Demo
-- [Download Demo](https://drive.google.com/file/d/1vvwrIh4cFjPe9sXH7D3rbYO5sUhFwsXE/view?usp=sharing)
+- [Download Demo](https://drive.google.com/file/d/1ADvRK0THjp90g4cIHDPJjsSND7y6Iocj/view)
 ## Poster
-![Poster](/TK7003_KingsOfDungeon.png)
+![Poster]()
 ## Screenshots
 
 ## Rewards
-- Qualified and join SCB Foundation (Torkla) Year 7.
+- First runner-up - National Software Contest (NSC 2019), Entertainment program.
 ## Team member
-
+-Radit Kamai
+- Chayootpong Promlee
 ## Development Tools
 - Unity Engine 
 - Visaul Studio
