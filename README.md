@@ -1,8 +1,5 @@
 # SpellCrafter
 ## Description
-
-## Game Play
-- [Trailer Video](https://www.youtube.com/watch?v=n2aRTP6vv8A&ab_channel=ChayootpongPromlee) 
 - Spellcrafter is a Metroid Vania game. Souls and solve single-player puzzles. (Single-
 player) where players will play the role of a mage who can control various elemental powers.
 The goal of this game is that the player has to find Last Boss and defeat them. Along the way,
@@ -12,6 +9,9 @@ use their own control abilities, change their elements in battle, and solve puzz
 their abilities. But even so, various obstacles Will adjust to prevent the players from reaching
 their destination Players need to find the weaknesses of those obstacles in order to strengthen
 themselves.
+## Trailer
+- [Trailer Video](https://www.youtube.com/watch?v=n2aRTP6vv8A&ab_channel=ChayootpongPromlee) 
+
 ## Download Demo
 - [Download Demo](https://drive.google.com/file/d/1ADvRK0THjp90g4cIHDPJjsSND7y6Iocj/view)
 ## Poster
