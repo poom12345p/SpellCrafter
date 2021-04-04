@@ -21,7 +21,7 @@ themselves.
 ## Rewards
 - First runner-up - National Software Contest (NSC 2019), Entertainment program.
 ## Team member
--Radit Kamai
+- Radit Kamai
 - Chayootpong Promlee
 ## Development Tools
 - Unity Engine 
